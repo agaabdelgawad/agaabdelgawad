@@ -4,16 +4,14 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/c/AhmedGamalAbdelGawad)
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/agaabdelgawad)
 
-### 🏗️ Bridging the Gap between Architecture & Algorithms
+### 🏗️ Bridging the gap between engineering logic and scalable software solutions
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agaabdelgawad&label=Profile%20views&color=0e75b6&style=flat-square" alt="agaabdelgawad" /> </p>
 
-I am a **Software Engineer & .NET Specialist** with a deep focus on the **AEC (Architecture, Engineering, and Construction)** industry. With an **MSc background** and experience as a **former Teaching Assistant (xTA)**, I am on a mission to revolutionize BIM workflows through automation and intelligent software solutions. 🚀
+I am a **Software Engineer & AEC Specialist** with 5+ years of experience in architecting high-impact tools that optimize digital workflows. My expertise lies in the **.NET Stack**, leveraging C#, WPF (MVVM), and TypeScript to solve intricate technical challenges through **Clean Code and SOLID principles**. 🚀
 
-I have a passion for first-principle thinking, specializing in **C# and the .NET ecosystem**. My expertise lies in building scalable tools for **Revit API, BIM Automation, and Digital Twin Interoperability**. I've dedicated my career to making a positive impact on the built environment through clean, efficient code.
+What sets me apart is the intersection of **MSc-level engineering research** and advanced software development. From optimizing large-scale model efficiency with **geometric algorithms** to bridging **GIS and BIM** applications, I focus on building robust, scalable solutions for the built environment.
 
-When I'm not coding, I'm sharing knowledge on my YouTube channel, creating courses like the **Intro to Revit API**, and mapping out the **AEC Informatics Roadmap** to help the next generation of engineers.
-
-**Feel free to connect with me for discussions on Computational Design, BIM Software Development, or just to talk tech! Let's build the future of AEC together. 🌟**
+When I'm not in the IDE, I'm empowering the next generation of engineers through my YouTube channel and the **AEC Informatics Roadmap**.
 
 <hr>
 <h3 align="left">✨ Random Dev Quote:</h3>
@@ -26,17 +24,17 @@ When I'm not coding, I'm sharing knowledge on my YouTube channel, creating cours
 
 ### 🛠️ Professional Focus:
 
-- 💻 &nbsp; Currently developing advanced **BIM Automation Tools** using .NET.
-- 🎓 &nbsp; Teaching the community through my **Intro to Revit API** course.
-- 🚀 &nbsp; Exploring the intersection of **AI and Generative Design**.
-- 💬 &nbsp; Ask me about: **Revit API, C#, WPF, or AEC Informatics**.
+- 💻 &nbsp; **Architecting** advanced BIM Automation & AEC Software Tools.
+- 🎓 &nbsp; **Technical Instructor** for Revit API & AEC Informatics.
+- 🚀 &nbsp; **Integrating** AI-assisted tools to maximize development productivity.
+- 💬 &nbsp; Ask me about: **C#/.NET, Revit API, Geometric Algorithms, or GIS-BIM Integration**.
 - 📫 &nbsp; Reach me out: [LinkedIn](https://linkedin.com/in/agaabdelgawad).
 
-### 📚 Education & Academic Background:
+### 📚 Education & Research:
 
-- 🎓 &nbsp; **Master of Science (MSc)** in AEC-related Informatics.
-- 🏫 &nbsp; **Former Teaching Assistant (xTA)**, passionate about technical education.
-- 🗺️ &nbsp; Architect of the **AEC Informatics Roadmap**.
+- 🎓 &nbsp; **Master of Science (MSc)** in Engineering (2024) - Focused on GIS & Software Dev.
+- 🏫 &nbsp; **Former Teaching Assistant (xTA)** - Graduated 3rd in class with Excellent with Honors.
+- 📰 &nbsp; **Published Researcher** in Applied Water Science.
 
 ### 💻 Languages and Tools:
 
@@ -70,5 +68,5 @@ When I'm not coding, I'm sharing knowledge on my YouTube channel, creating cours
 #
 
 <div align="center">
-  <h3>Thanks for visiting! Don't forget to star ⭐ my repositories if you find them useful!</h3>
+  <h3>Show some ❤️ by starring some of the repositories if you find them useful! ⭐</h3>
 </div>
