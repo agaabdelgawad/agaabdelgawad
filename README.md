@@ -6,7 +6,7 @@
 ### 🏗️ Bridging the gap between engineering logic and scalable software solutions
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agaabdelgawad&label=Profile%20views&color=0e75b6&style=flat-square" alt="agaabdelgawad" /> </p>
 
-I am a **Software Engineer & AEC Specialist** with 5+ years of experience engineering high-impact tools that optimize digital workflows. My expertise lies in the **.NET Stack**, where I build robust desktop and web applications, leveraging C#, WPF (MVVM), and TypeScript. 🚀
+I am a **Software Engineer & AEC Specialist** with 5+ years of experience architecting high-impact tools that optimize digital workflows. My expertise lies in the **.NET Stack**, where I build robust desktop and web applications, leveraging C#, WPF (MVVM), and TypeScript. 🚀
 
 What sets me apart is the **intersection of MSc-level engineering research** and deep specialization in **geometric algorithms** and AEC-specific APIs (**Revit, AutoCAD, ArcGIS Pro**). I am passionate about solving intricate technical challenges through **Clean Code and SOLID principles**, while integrating AI-assisted tools to maximize development productivity.
 
@@ -25,7 +25,7 @@ When I'm not in the IDE, I'm empowering the next generation of engineers through
 
 ### 🛠️ Professional Focus:
 
-- 💻 &nbsp; **Engineering** advanced BIM Automation & AEC Software Tools.
+- 💻 &nbsp; **Architecting** advanced BIM Automation & AEC Software Tools.
 - 🏗️ &nbsp; **Technical Impact:** Contributed to 5+ AEC software projects at **CrowdBuild, Inc.**, optimizing large-scale models.
 - 🎓 &nbsp; **Technical Instructor** for Revit API & AEC Informatics on YouTube.
 - 💬 &nbsp; Ask me about: **C#/.NET, Revit API, Geometric Algorithms, or GIS-BIM Integration**.
