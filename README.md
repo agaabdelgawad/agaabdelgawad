@@ -9,9 +9,11 @@
 
 I am a **Software Engineer & .NET Specialist** with a deep focus on the **AEC (Architecture, Engineering, and Construction)** industry. With an **MSc background** and experience as a **former Teaching Assistant (xTA)**, I am on a mission to revolutionize BIM workflows through automation and intelligent software solutions. 🚀
 
-I have a passion for first-principle thinking, specializing in **C# and the .NET ecosystem**. My expertise lies in building scalable tools for **Revit API, BIM Automation, and Digital Twin Interoperability**. 
+I have a passion for first-principle thinking, specializing in **C# and the .NET ecosystem**. My expertise lies in building scalable tools for **Revit API, BIM Automation, and Digital Twin Interoperability**. I've dedicated my career to making a positive impact on the built environment through clean, efficient code.
 
-When I'm not coding, I'm sharing knowledge on my YouTube channel, creating courses like the **Intro to Revit API**, and mapping out the **AEC Informatics Roadmap**.
+When I'm not coding, I'm sharing knowledge on my YouTube channel, creating courses like the **Intro to Revit API**, and mapping out the **AEC Informatics Roadmap** to help the next generation of engineers.
+
+**Feel free to connect with me for discussions on Computational Design, BIM Software Development, or just to talk tech! Let's build the future of AEC together. 🌟**
 
 <hr>
 <h3 align="left">✨ Random Dev Quote:</h3>
@@ -55,22 +57,18 @@ When I'm not coding, I'm sharing knowledge on my YouTube channel, creating cours
 <details open>
   <summary><b>⚡ My Coding Activity</b></summary>
   <br />
-  <div align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=agaabdelgawad&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agaabdelgawad&layout=compact&theme=dark&langs_count=6" />
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agaabdelgawad&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agaabdelgawad&layout=compact&theme=dark&langs_count=6" />
 </details>
 
-<details>
+<details open>
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <div align="center">
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=agaabdelgawad&theme=dark" />
-  </div>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=agaabdelgawad&theme=dark" />
 </details>
 
 #
 
 <div align="center">
-  <h3>Thanks for visiting! ⭐</h3>
+  <h3>Thanks for visiting! Don't forget to star ⭐ my repositories if you find them useful!</h3>
 </div>
