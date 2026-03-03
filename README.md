@@ -1,7 +1,7 @@
 ## Glad to see you here! 👋, I'm [Ahmed Gamal!](https://github.com/agaabdelgawad/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/agaabdelgawad)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/c/AhmedGamalAbdelGawad)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/@agaabdelgawad)
 
 ### 🏗️ Bridging the gap between engineering logic and scalable software solutions
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agaabdelgawad&label=Profile%20views&color=0e75b6&style=flat-square" alt="agaabdelgawad" /> </p>
